@@ -1,0 +1,19 @@
+Members: Farhan Alam and Chuheng Hu
+Project Link: http://users.design.ucla.edu/~frendzy321/DESMA28/Sisyphus'%20Journey/
+Project Description: A B-Game that depicts the story of Sysiphus. 
+Background:
+   Myth Of Sisyphus is a philosophical book written by Albert Camus. The main topic of this book is about absurd and revolt. A person’s life is just like the hero Sisyphus from Greek mythology who was made to repeat a meaningless and absurd task of carrying a boulder up a mountain and then seeing it roll down again. This game is going to reproduce the task of Sisyphus and illustrate the philosophy behind it.  
+
+Screenshot Descriptions:
+	1) Player is jumping and trying to push the boulder. This allows for different angles to push the boulder.
+	2) This is the start of the game. One mistake can land the boulder all the way back here.
+	3) The Player is in the sky. The game allows for infinite jumps, however there is an invisible boundary to limit the height.
+	4) This is the portion of the game where the player has almost taken the boulder to the top of the mountain. At the top waits a suprise.
+
+Language/Platform:
+	1) Unity
+	2) C#
+
+References:
+	1) Unity Documentation
+	2) Unity Forums
